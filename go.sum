@@ -1,2 +1,4 @@
 github.com/powerman/rpc-codec v1.2.2 h1:BK0JScZivljhwW/vLLhZLtUgqSxc/CD3sHEs8LiwwKw=
 github.com/powerman/rpc-codec v1.2.2/go.mod h1:3Qr/y/+u3CwcSww9tfJMRn/95lB2qUdUeIQe7BYlLDo=
+github.com/powerman/rpc-codec v1.3.0 h1:TVZvznzx+qEJ+ks+Ed46Gyef0DQrJVJfGt8m1FBF3ls=
+github.com/powerman/rpc-codec v1.3.0/go.mod h1:zx1rlLqVuZ5mjJ4WNBPzNTu3R4PUSiThlhQebMSLCmo=
